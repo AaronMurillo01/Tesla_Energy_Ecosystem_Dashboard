@@ -2,8 +2,6 @@
 
 A real-time visualization and monitoring system for Tesla's global sustainable energy network, built with React, TypeScript, and Tailwind CSS.
 
-![Dashboard Preview](https://images.unsplash.com/photo-1536566482680-fca31930a0bd?auto=format&fit=crop&w=2000)
-
 ## 🌍 Overview
 
 The Tesla Energy Ecosystem Dashboard provides a comprehensive view of Tesla's worldwide sustainable energy infrastructure, offering real-time monitoring and analytics of solar installations, Powerwall deployments, and electric vehicle integration.
