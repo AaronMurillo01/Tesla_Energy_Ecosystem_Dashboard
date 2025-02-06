@@ -154,4 +154,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👤 Author
 
-Created by Aaron Murillo with ❤️ for sustainable energy monitoring
+Created by Aaron Murillo
